@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Home
+Welcome to Naclcaleb's GitHub page!
 
-You can use the [editor on GitHub](https://github.com/naclcaleb/naclcaleb.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Here you can find a number of repositories, containing many of my favorite ongoing projects. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About Me
+I am an aspiring full stack developer, who likes to work on hobby projects and learn new skills. 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/naclcaleb/naclcaleb.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## My respositories
+[Hoogle](https://github.com/naclcaleb/Hoogle)
+[Charles](https://github.com/naclcaleb/Charles)
+[Pure](https://github.com/naclcaleb/Pure)
+[GoogleAssistant_Linux](https://github.com/naclcaleb/GoogleAssistant_Linux)
+[VirtualPong](https://github.com/naclcaleb/VirtualPong)
+[ArduinoDeviceScan](https://github.com/naclcaleb/ArduinoDeviceScan)
+[Chatbot-generative-model](https://github.com/naclcaleb/Chatbot-generative-model)
+[NeuralNet](https://github.com/naclcaleb/NeuralNet)
